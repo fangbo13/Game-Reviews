@@ -74,30 +74,3 @@ If there have been any reviews added for a game, these should appear on the _Gam
 3. The date the review was posted (but not the time).
 3. The review text with the _markdown_ converted to html.
 
-----
-
-## Extras
-
-In some assignment briefs you are given marks for the appropriate use of media and using sensors built into the user's device.
-
-### Sensors
-
-In some assignment briefs you are given marks for the appropriate use of sensors and sensor data. You should be implementing:
-
-1. When selecting a game box image, the user should be given the option of using the device camera (if available).
-2. Each review posted should be flagged with the location of the person posting (country and region only).
-3. For each game there should be a map showing the locations where the reviews have come from. Clicking a pin should show their name, avatar and the first part of the message. Selecting this should display the entire message.
-
-### Media
-
-In the requirements listed above you need to provide the user with the ability to upload photos. For the extra media marks you will need to expand this by:
-
-1. Providing the user with the choice of uploading photos, video clips or audio clips.
-2. Giving users the option to directly capture images, audio and video clips using the built-in camera and/or microphone if available.
-
-### Data
-
-There are lots of online RESTful APIs you can make use of when developing this system. You should consider:
-
-1. The [IGDB Video Games Database](https://www.igdb.com/api)
-2. [LocationIQ](https://locationiq.com)
